@@ -8,7 +8,7 @@
 
 ## 🧱 Structure & Design
 
-SixLight is built around a hexagonal frame made of 50x50 mm aluminum tubes, each 2 mm thick. The industrial LED housing are attached to the frame using custom-designed spherical joints, which allow for a wide range of positioning. Aluminum tubes were chosen to keep the cost low, but using carbon fiber tubes would significantly reduce the weight and improve maneuverability.
+SixLight is built around a hexagonal frame made of 50x50 mm aluminum tubes, each 2 mm thick. The industrial LED housings are attached to the frame using custom-designed spherical joints, which allow for a wide range of positioning. Aluminum tubes were chosen to keep the cost low, but using carbon fiber tubes would significantly reduce the weight and improve maneuverability.
 
 Each joint can be tightened to lock the light in a desired direction, offering a semi-rigid structure that remains flexible during setup but stable during use.
 
@@ -19,7 +19,6 @@ Each joint can be tightened to lock the light in a desired direction, offering a
 
 - 3D-printable STL files for the spherical joints and mounting elements
 - STEP files for modification
-- PDF assembly guide and wiring diagram
 - Images of the final assembly
 
 ---

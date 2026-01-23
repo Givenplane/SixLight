@@ -1,6 +1,7 @@
 # SixLight – Assembly Guide
 
 > This guide covers the assembly of the **SixLight** lamp structure only.  
+> This is a short illustrated guide to the **SixLight** lamp structure only.
 > Electrical wiring and the ceiling pulley system are not described here but referenced in the final images.
 
 ---
