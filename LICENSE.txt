@@ -1,0 +1,28 @@
+This project is released under the following terms:
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+
+You are free to:
+- Share: copy and redistribute the material in any medium or format.
+- Adapt: remix, transform, and build upon the material.
+
+Under the following terms:
+- Attribution: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- NonCommercial: You may not use the material for commercial purposes.
+- ShareAlike: If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
+
+💼 Interested in commercial use?
+Commercial use of this design (e.g. manufacturing, selling, monetizing directly or indirectly) is **not allowed** without a commercial license agreement.
+
+📩 For inquiries about commercial licensing or collaborations, contact us.
+
+Full license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Original author: Simon Given (GivenPlane)
+
+---
+
+DISCLAIMER
+
+This design is distributed in the hope that it will be useful, but **WITHOUT ANY WARRANTY**, including but not limited to the implied warranties of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Use at your own risk. The author assumes no liability for injury, damage, or loss.
