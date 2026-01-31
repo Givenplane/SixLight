@@ -4,6 +4,9 @@
 
 **SixLight** is an open-source modular lighting system designed for creators, makers, and content producers. It combines industrial reliability with DIY flexibility, allowing you to build a durable, adjustable LED light for your studio, workshop, or filming setup.
 
+🎥 **Watch the full video on YouTube:**  
+[▶️ SixLight Video](https://www.youtube.com/watch?v=seigdt7EmHs)
+
 ---
 
 ## 🧱 Structure & Design
@@ -19,16 +22,8 @@ Each joint can be tightened to lock the light in a desired direction, offering a
 
 - 3D-printable STL files for the spherical joints and mounting elements
 - STEP files for modification
-- Images of the final assembly
+- [ A short guide](docs/assembly_guide.md) and images of the final assembly
 
----
-
-## 🛠️ Requirements
-
-- Aluminum tubes (50x50 mm and 30x30 mm, 2 mm thick)
-- 120cm led batten and housing
-- Standard screws, nuts and bolts
-- 3D printer for joint fabrication
 
 ---
 
