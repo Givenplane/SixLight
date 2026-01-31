@@ -2,7 +2,7 @@
 
 ![SixLight Cover](images/preview.jpg)
 
-**SixLight** is an open-source modular lighting system designed for creators, makers, and content producers. It combines industrial reliability with DIY flexibility, allowing you to build a durable, adjustable LED light for your studio, workshop, or filming setup.
+**SixLight** is a modular lighting system designed for creators, makers, and content producers. It combines industrial reliability with DIY flexibility, allowing you to build a durable, adjustable LED light for your studio, workshop, or filming setup.
 
 🎥 **Watch the full video on YouTube:**  
 [▶️ SixLight Video](https://www.youtube.com/watch?v=seigdt7EmHs)
